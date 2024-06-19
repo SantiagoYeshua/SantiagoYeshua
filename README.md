@@ -1,5 +1,10 @@
 ## Olá!!! Eu sou o Santiago Yeshua🧉
 
+📖 Estudante de Programação <br>
+💻 Trabalho atualmente como Estagiário
+
+##
+
 <div>
 <a href="https://github.com/SantiagoYeshua">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoYeshua&show_icons=false&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
@@ -11,5 +16,4 @@
 <div>
   <a href="mailto:santiagooliveira200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/santiagoyeshua/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/santiago.yeshua/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
