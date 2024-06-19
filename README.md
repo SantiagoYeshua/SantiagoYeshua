@@ -1,10 +1,5 @@
 ## Olá!!! Eu sou o Santiago Yeshua🧉
 
-📖 Estudante de Programação <br>
-💻 Trabalho atualmente como Estagiário
-
-##
-
 <div>
 <a href="https://github.com/SantiagoYeshua">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoYeshua&show_icons=false&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
