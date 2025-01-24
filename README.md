@@ -1,4 +1,4 @@
-## Olá! Eu sou o Santiago Yeshua🧉
+## Eu sou o Santiago Yeshua🧉
 
 <div>
 <a href="https://github.com/SantiagoYeshua">
