@@ -1,8 +1,6 @@
-## Eu sou o Santiago Yeshua🧉
-
 <div>
 <a href="https://github.com/SantiagoYeshua">
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoYeshua&layout=compact&langs_count=7&theme=react"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoYeshua&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ##
